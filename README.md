@@ -96,7 +96,7 @@
 
 2. **Enhanced Offline Mode:**
 
-   - Implement SQLite or MMKV storage to allow more robust offline data storage and retrieval.
+   - Implement SQLite, MMKV storage, etc to allow more robust offline data storage and retrieval.
 
 3. **Error Reporting & Logging:**
 
