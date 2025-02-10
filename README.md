@@ -5,8 +5,8 @@
 1. **Clone the Repository:**
 
    ```sh
-   git clone <your-private-repo-url>
-   cd <your-project-folder>
+   git clone https://github.com/ShivangGandhi/claritiFeedApp.git
+   cd claritiFeedApp/
    ```
 
 2. **Install Dependencies:**
